@@ -9,10 +9,10 @@ This project aims to develop a real-time system that translates Urdu sign langua
 
 ## Dependencies
 
-- ![Python 3.x](https://www.python.org/downloads/windows/)
-- ![yolov5](https://github.com/ultralytics/yolov5)
-- ![Numpy](https://numpy.org/)
-- ![OpenCV](https://opencv.org/)
+- [Python 3.x](https://www.python.org/downloads/windows/)
+- [yolov5](https://github.com/ultralytics/yolov5)
+- [Numpy](https://numpy.org/)
+- [OpenCV](https://opencv.org/)
 
 ## Results
 ![image]()
