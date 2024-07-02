@@ -18,3 +18,5 @@ This project aims to develop a real-time system that translates Urdu sign langua
 ![image](https://github.com/Abdullatariq47/Urdu-Sign-Language-Translator/blob/main/runs/train/exp2/F1_curve.png)
 
 ![image](https://github.com/Abdullatariq47/Urdu-Sign-Language-Translator/blob/main/runs/train/exp2/P_curve.png)
+
+![image](https://github.com/Abdullatariq47/Urdu-Sign-Language-Translator/blob/main/runs/train/exp2/val_batch1_pred.jpg)
