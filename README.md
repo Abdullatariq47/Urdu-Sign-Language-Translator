@@ -15,4 +15,4 @@ This project aims to develop a real-time system that translates Urdu sign langua
 - [OpenCV](https://opencv.org/)
 
 ## Results
-![image]()
+![image](https://github.com/Abdullatariq47/Urdu-Sign-Language-Translator/blob/main/runs/train/exp2/F1_curve.png)
